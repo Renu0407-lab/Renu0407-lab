@@ -1,16 +1,40 @@
-## Hi there 👋
+👋 Hi, I'm Renuga!
 
-<!--
-**Renu0407-lab/Renu0407-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cyber Security Student | Aspiring Cybersecurity Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Cyber Security student interested in learning how to protect digital systems and build secure applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍💻 About Me
+
+- 🎓 Studying B.E. in Cyber Security at Mahendra Engineering College
+- 🌱 Currently learning Python, C Programming, Linux, and Computer Networking
+- 🔐 Interested in Cybersecurity, Network Security, and Ethical Hacking
+- 💡 Working to improve my programming and problem-solving skills
+- 🎯 Goal: To become a skilled Cybersecurity Engineer
+
+🛠️ Skills I'm Learning
+
+- Programming: Python, C
+- Operating Systems: Linux, Windows
+- Core Concepts: Computer Networking, Cybersecurity Fundamentals
+- Tools: Git, GitHub
+
+🚀 Projects
+
+I'm building my skills through practice and personal projects. My projects will be added here as I complete them.
+
+📚 Currently Learning
+
+- Python programming
+- Networking fundamentals
+- Linux commands
+- Cybersecurity basics
+- Git and GitHub
+
+🤝 Connect With Me
+
+You can explore my repositories here on GitHub and follow my learning journey.
+
+---
+
+⭐ Thank you for visiting my profile!
