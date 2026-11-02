@@ -1,29 +1,31 @@
-👋 Hi, I'm Renuga!
+# Hi, I'm Renuga 👋
 
-🎓 Cyber Security Student | Aspiring Cybersecurity Engineer
+### Cyber Security Student | Aspiring Cybersecurity Engineer
 
-Welcome to my GitHub profile! I'm a Cyber Security student interested in learning how to protect digital systems and build secure applications.
+Welcome to my GitHub profile! I'm a Cyber Security student
+interested in digital security, networking, Linux, and secure
+application development.
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Studying B.E. in Cyber Security at Mahendra Engineering College
-- 🌱 Currently learning Python, C Programming, Linux, and Computer Networking
+- 🌱 Currently learning Python, C, Linux, and Computer Networking
 - 🔐 Interested in Cybersecurity, Network Security, and Ethical Hacking
-- 💡 Working to improve my programming and problem-solving skills
-- 🎯 Goal: To become a skilled Cybersecurity Engineer
+- 🎯 Goal: To develop strong cybersecurity and problem-solving skills
 
-🛠️ Skills I'm Learning
+## 🛠️ Skills I'm Learning
 
-- Programming: Python, C
-- Operating Systems: Linux, Windows
-- Core Concepts: Computer Networking, Cybersecurity Fundamentals
-- Tools: Git, GitHub
+- **Programming:** Python, C
+- **Operating Systems:** Linux, Windows
+- **Networking:** Computer Networking Fundamentals
+- **Tools:** Git, GitHub
 
-🚀 Projects
+## 📂 Projects
 
-I'm building my skills through practice and personal projects. My projects will be added here as I complete them.
+I'm building my skills through practice and personal projects.
+My projects will be added here as I complete them.
 
-📚 Currently Learning
+## 📚 Currently Learning
 
 - Python programming
 - Networking fundamentals
@@ -31,10 +33,7 @@ I'm building my skills through practice and personal projects. My projects will 
 - Cybersecurity basics
 - Git and GitHub
 
-🤝 Connect With Me
+## 🤝 Connect with Me
 
-You can explore my repositories here on GitHub and follow my learning journey.
-
----
-
-⭐ Thank you for visiting my profile!
+You can explore my repositories here on GitHub and follow
+my learning journey.
